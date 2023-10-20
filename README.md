@@ -25,9 +25,12 @@
 <br/>
 <br/>
 
-![Angurag's github stats](https://github-readme-stats.vercel.app/api?username=AESvetlova89)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AESvetlova89&layout=compact)
+<details>
+    <summary>:zap: Statistics:</summary>
+    <img align="left" alt="codeSTACKr's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AESvetlova89" />
+    <br/>
+    <img align="left" alt="codeSTACKr's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AESvetlova89&layout=compact" />
+</details>
 
 [vk]: https://vk.com/a_svetlova_a
 [instagram]: https://instagram/a_svetlova_a
