@@ -1,5 +1,7 @@
 ### Hi there 👋 I’m Anastasia
 
+![](https://komarev.com/ghpvc/?username=AESvetlova89)
+
 ### I'm a BackEnd Developer
 - 💪 I like to write code
 - 🧠 I like to learn something new
